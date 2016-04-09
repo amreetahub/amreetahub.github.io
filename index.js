@@ -1,1 +1,3 @@
-alert("heybitch")
+$(document).ready(function() {
+	alert("heybitch");
+});
